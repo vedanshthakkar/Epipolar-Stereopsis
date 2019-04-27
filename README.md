@@ -22,4 +22,6 @@ The step wise process with detailed description of each step of this project is 
 
 9. The rectified images are used to generate a disparity map.
 
+The code for all above steps can be found in Epilolar Stereopsis.py
+
 If you find and problems, please feel free to contact me on vedansh.thakkar@vanderbilt.edu
